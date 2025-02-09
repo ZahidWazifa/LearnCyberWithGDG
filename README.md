@@ -13,6 +13,7 @@
   </ol>
   <h3>CTF</h3>
   <ol>
-    <li>Sql Injection Repository URL:<a href=""></a></li>
+    <li>Sql Injection Repository URL:<a href="https://github.com/ZahidWazifa/sqlinjection/blob/master/README.md">sql Injection</a></li>
+    <li>JSkiddies Repository URL: <a href="https://github.com/ZahidWazifa/javascriptkiddies/blob/master/README.md"> scriptkiddies</a></li>
   </ol>
 </details>

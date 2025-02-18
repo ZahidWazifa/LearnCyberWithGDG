@@ -17,3 +17,10 @@
     <li>JSkiddies Repository URL: <a href="https://github.com/ZahidWazifa/javascriptkiddies/blob/master/README.md"> scriptkiddies</a></li>
   </ol>
 </details>
+<details open >
+  <summary><h2>Week 2</h2></summary>
+  <h3>CTF</h3>
+  <ol>
+    <li>BabyGame3-writeUp Repository URL: <a href="https://github.com/ZahidWazifa/BabyGame3-WriteUp"> BabyGameWriteUp</a></li>
+  </ol>
+</details>

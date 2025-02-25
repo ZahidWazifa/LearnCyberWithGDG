@@ -24,3 +24,10 @@
     <li>BabyGame3-writeUp Repository URL: <a href="https://github.com/ZahidWazifa/BabyGame3-WriteUp"> BabyGameWriteUp</a></li>
   </ol>
 </details>
+<details open>
+  <summary><h2> Week3 </h2></summary>
+  <h3>CTF</h3>
+  <ol>
+    <li> The OFfice WriteUp Repository URL: <a href="https://github.com/ZahidWazifa/PicoCTF-TheOffice/blob/master/README.md"> The Office WriteUp</a></li>
+  </ol>
+</details>
